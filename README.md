@@ -4,7 +4,7 @@ I havent made much effort to update the app but maybe one day will.
 
 Below is the info from their page: 
 # double-clicker
-Automatically exported from code.google.com/p/double-clicker
+Automatically exported from https://code.google.com/archive/p/double-clicker/
 
 Utility to help people who have trouble with double-click mouse actions
 
